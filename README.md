@@ -1,6 +1,6 @@
 ﻿# Master The Java Programming Language course on Udemy
 
-### Here I'm learning Java
+### Here I'm learning Java (again)
 
 ##### Learn to master the Java programming language.
 ##### Understand SOLID principles and its application.
